@@ -291,7 +291,7 @@ export default function LegacyAnimation({
             id="imagePath"
           />
           <div className="wish">
-            <h3 className="wish-hbd">Happy Valentine&apos;s Day Gorgeous</h3>
+            <h3 className="wish-hbd">Happy Valentine&apos;s Day</h3>
             <h5 id="wishText">{customization.wishText}</h5>
           </div>
         </div>
